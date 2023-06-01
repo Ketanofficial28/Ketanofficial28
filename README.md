@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ketanofficial28
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning python
-- 💞
+- 💞 single
 - 📫 How to reach me follow me on Instagram = @ketanofficial28
 
 <!---
